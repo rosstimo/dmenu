@@ -1,4 +1,5 @@
-stest
 *~
 *.o
+*.1
+stest
 dmenu
